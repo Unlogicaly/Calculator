@@ -1,0 +1,53 @@
+let g = 1; g        \ 1 test: definition and appeal
+let h = 1       \ 2 test: definition without appeal
+h       \ 3 test: appeal without definition
+let g = 0; g        \ 4 test: redefinition and appeal
+g = 0; g        \ 5 test: assignment and appeal
+let const g = 0; g      \ 6 test: redefinition with setting const qualifier and appeal
+let const f = 1; f      \ 7 test: definition of const variable and appeal
+f = 0; f        \ 8 test: assignment of const variable and appeal
+let f = 0; f        \ 9 test: redefinition of const variable and appeal
+let k = f + g; k        \ 10 test: definition of variable by expression and appeal
+help        \ 11 test: help call
+let help = 1        \ 12 test: definition of key word 'help' by a number
+let quit = 1        \ 13 test: definition of key word 'quit' by a number
+let const const = 1         \ 14 test: definition of key word 'const' by a number
+let; const; let const; let =; =      \ 15 test: using meaningless combinations of key words
+1 + 1; 1 - 1; 1 * 1; 1 / 1; 1 % 1       \ 16 test: using vary operands (+ - * / %) with 1 and 1. 2, 0, 1, 1, 0
+1 = 1;      \ 17 test: meaningless assignment to number
+1 * 1 * 1 * 1;      \ 18 test: testing multiplications of several numbers. 1
+1 1;        \ 19 test: two expressions without separator
+1 +++ 1; 1 -- 1; 1 --- 1        \ 20 test: using several pluses and minuses in a row
+1 ** 1      \ 21 test: using several multiplications in a row
+1 + 2 * 1       \ 22 test: addition and multiplication. 3
+2 * (1 + 1)         \ 23 test: multiplication of number and expression in brackets. 4
+(1 + (1 + 1))       \ 24 test: brackets in brackets. 3
+(1) + (1)       \ 25 test: single numbers in brackets. 2
+-(1 + 1)        \ 26 test: negation of expression in brackets. -2
+(3 + 4 / 2) * (1 - 2)       \ 27 test: multiplication of two brackets. -5
+5/3      \ 28 test: non-integer division. 1.666667
+5%3         \ 29 test: testing mod function. 2
+(4 + (78 - 4) * 9) % 21         \ 30 test: calculating. 19
+(41 + 900) / (1/3 - 5/15)        \ 31 test: zero division
+.       \ 32 test: input zero with '.'
+. 1 1 1         \ 33 test: several expressions without separators with '.' in first place. Usual methods can't handle with such expression
+. + . + 1       \ 34 test: using zeros with '.' input in expressions. 1
+.(1)        \ 35 test: using '.' directly before brackets
+'; [; ~;        \ 36 test: input 3 bad tokens
+;;;         \ 37 test: input several '_print' tokens in a row
+        \ 38 test: blank line
+
+
+
+1.2.3       \ 39 test: meaningless expression '1.2.3'
+pi + .9     \ 40 test: work with predefined constants
+1 + 1; 1 - 1 1 / 0; 1 + 1       \ 41 test
+sin 4; cos 4; tg 4; ctg 4; csc 4; sec 4       \ 42 test: trigonometric functions on argument 4 (sin, cos, tg, ctg, csc, sec)
+arcsin 0.5; arccos 0.5; arctg 0.5; arcctg 0.5; arccsc 0.5; arcsec 0.5     \ 43 test: inverse trigonometric function on argument 0.5 (arcsin, arccos, arctg, arcctg, arccsc, arcsec)
+sinh 3; cosh 3; th 3; cth 3; csch 3; sech 3     \ 44 test: hyperbolic trigonometric functions on argument 3 (sinh, cosh, th, cth, csch, sech)
+ln 5        \ 45 test: natural logarithm 5
+exp 2       \ 46 test: e in degree 2
+sign -2; sign 0; sign 2     \ 47 test: sign of -2, 0, 2
+2 ^ 3       \ 48 test: testing power
+3 * 2 ^ 2       \ 49 test: order of operations: power before multiple
+(3 - 2) ^ tg (pi / 4) * arctg 1     \ 50 test: computing complex expression. pi / 4

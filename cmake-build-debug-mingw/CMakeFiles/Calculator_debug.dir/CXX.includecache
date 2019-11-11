@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/constants.h
+containers.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.cpp
+utility
+-
+containers.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.h
+words_treatment.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.cpp
+define_token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.h
+constants.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/constants.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.cpp
+get_token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.h
+token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.cpp
+grammar.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.h
+states_generation.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/main.cpp
+grammar.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.cpp
+states_generation.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.h
+utility
+-
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.h
+variable.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/std_lib_facilities.h
+iostream
+-
+iomanip
+-
+fstream
+-
+sstream
+-
+cmath
+-
+cstdlib
+-
+string
+-
+list
+-
+forward_list
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+array
+-
+regex
+-
+random
+-
+stdexcept
+-
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.cpp
+get_token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.h
+define_token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.cpp
+variable.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.h
+token.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.cpp
+words_treatment.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.h
+
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.h
+std_lib_facilities.h
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/std_lib_facilities.h
+

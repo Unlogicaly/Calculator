@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Calculator_debug"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator_debug">
+				<Option output="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Calculator_debug.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Calculator_debug"/>
+					<CompileFile command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator_debug/fast">
+				<Option output="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Calculator_debug.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/JetBrains/Other/c/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 Calculator_debug/fast"/>
+					<CompileFile command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/JetBrains/Other/c/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/constants.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/containers.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/define_token.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/get_token.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/grammar.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/main.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/states_generation.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/std_lib_facilities.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/token.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/variable.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.cpp">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/words_treatment.h">
+			<Option target="Calculator_debug"/>
+		</Unit>
+		<Unit filename="C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

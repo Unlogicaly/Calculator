@@ -1,0 +1,3 @@
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/CMakeFiles/Calculator_debug.dir
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/tarog/OneDrive - phystech.edu/MIPT/Informatics/Week 4/Calculator_debug/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

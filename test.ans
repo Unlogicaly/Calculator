@@ -1,0 +1,13 @@
+> = get: undefined name g
+> = 3
+> = 3
+> = 3
+> = get: undefined name h
+> = 0
+> = 5
+= primary expected
+> = get: undefined name t
+> = 3
+> = redefinition of constant variable
+> = '=' missing in var_treatment of t
+> = -7

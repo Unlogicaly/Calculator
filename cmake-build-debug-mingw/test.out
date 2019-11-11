@@ -1,0 +1,134 @@
+> = 1
+= 1
+Bad token
+> = 1
+Bad token
+> = 1
+Bad token
+> can't redefine existing variable
+= 1
+Bad token
+> = 0
+= 0
+Bad token
+> can't redefine existing variable
+= 0
+Bad token
+> = 1
+= 1
+Bad token
+> redefinition of constant variable
+= 1
+Bad token
+> can't redefine existing variable
+= 1
+Bad token
+> = 1
+= 1
+Bad token
+> Instructions: ...
+Bad token
+> name expected in var_treatment
+Bad token
+> name expected in var_treatment
+Bad token
+> name expected in var_treatment
+Bad token
+> primary expected
+primary expected
+primary expected
+name expected in var_treatment
+unexpected '=' symbol
+Bad token
+> = 2
+= 0
+= 1
+= 1
+= 0
+two or more signs without separator
+> unexpected '=' symbol
+Bad token
+> = 1
+Bad token
+> = 1
+= end of statement expected
+Bad token
+> two or more signs without separator
+two or more signs without separator
+two or more signs without separator
+Bad token
+> primary expected
+Bad token
+> = 3
+Bad token
+> = 4
+Bad token
+> = 3
+Bad token
+> = 2
+Bad token
+> = -2
+Bad token
+> = -5
+Bad token
+> = 1.66667
+Bad token
+> = 2
+Bad token
+> = 19
+Bad token
+> divide by zero
+Bad token
+> Bad token
+Bad token
+> Bad token
+Bad token
+> Bad token
+Bad token
+> Bad token
+Bad token
+> Bad token
+Bad token
+Bad token
+Bad token
+> Bad token
+> Bad token
+> > > > = 1.2
+= end of statement expected
+Bad token
+> = 4.04159
+Bad token
+> = 2
+= 0
+= end of statement expected
+= 2
+Bad token
+> = -0.756802
+= -0.653644
+= 1.15782
+= 0.863691
+= -1.32135
+= -1.52989
+Bad token
+> = 0.523599
+= 1.0472
+= 0.463648
+= 1.10715
+= nan
+= nan
+Bad token
+> = 10.0179
+= 10.0677
+= 0.995055
+= 1.00497
+= 0.0998216
+= 0.0993279
+Bad token
+> = 1.60944
+Bad token
+> = 7.38906
+Bad token
+> = -1
+= 0
+= 1
+Bad token
